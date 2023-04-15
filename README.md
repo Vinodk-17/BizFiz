@@ -5,6 +5,10 @@
 ###  BizFiz : A Novel Business-Sensitive Metric for Effortless Loan Disbursement Process.
 ### 
 
+### Glimpse : 
+
+![ScreenShot](C:\Users\vinay\Pictures\Screenshots)
+
 
 ### The problem BizFiz solves
 
