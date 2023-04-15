@@ -7,7 +7,7 @@
 
 ### Glimpse : 
 
-![ScreenShot](C:\Users\vinay\Pictures\Screenshots)
+![ScreenShot](Screenshot(198).png)
 
 
 ### The problem BizFiz solves
