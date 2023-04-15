@@ -42,4 +42,7 @@ Loan Disbusrsement Process is Hectic and involves lot of paper work. Loan as of 
 1.  Setu AA notsending OTP, delayed response soemtimes made us anxious.
 2.  Developing a sensitive metric for already old and established loan industry was itself challenging and new thing.
 
+### BizFiz Generated Report :
+https://drive.google.com/file/d/18vIXuSjIRjAFhqjwpNZ_E4eszyCN1t4-/view
+
 -------------------
