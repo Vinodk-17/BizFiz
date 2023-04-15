@@ -5,11 +5,21 @@
 ### Theme : Fintech
 
 ### Glimpse : 
+#### Home Page : 
 
 ![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(198).png)
 ----
-![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(199).png)
+#### Money Lending Form : 
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(202).png)
 ----
+
+#### Bank Admin - All requested Form : 
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(203).png)
+----
+
+#### Candidate Translation Analysis : 
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(204).png)
+
 
 ### Link :
 https://bizfiz-superduper.netlify.app/
