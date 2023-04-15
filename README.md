@@ -1,12 +1,8 @@
 
-# BizFiz  :  Winner 🏆 @ Fintech Open Month Hackathon
-
-👉 Link : https://cic.niti.gov.in/fintech-open-month-hackathon.html
-
-<img width="814" alt="image" src="https://user-images.githubusercontent.com/31367960/158437959-f3b0f0af-6a77-4edf-8f80-9fce603c8f35.png">
+# BizFiz  :
 
 
-###  BIZ FIZ : A Business Sensitive Metric to simplify Loan Disbursement Process.
+###  BizFiz : A Novel Business-Sensitive Metric for Effortless Loan Disbursement Process.
 ### 
 
 
@@ -42,4 +38,3 @@ Loan Disbusrsement Process is Hectic and involves lot of paper work. Loan as of 
 2.  Developing a sensitive metric for already old and established loan industry was itself challenging and new thing.
 
 -------------------
-Made with ❤️ at Fintech Open Hackathon
