@@ -9,7 +9,11 @@
 
 ![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(198).png)
 ----
-![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(199.png)
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(199).png)
+----
+
+### Link :
+https://bizfiz-superduper.netlify.app/
 
 ### The problem BizFiz solves
 
