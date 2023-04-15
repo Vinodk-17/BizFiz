@@ -50,6 +50,10 @@ Loan Disbusrsement Process is Hectic and involves lot of paper work. Loan as of 
 
 #### The Project uses Open Data available (PhonePe Pulse Data, Data. gov, Wiki) and Setu AA to make above posible
 
+## Architecture :
+
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/arc.jpeg)
+
 #### Challenges we ran into
 
 1.  Setu AA notsending OTP, delayed response soemtimes made us anxious.
