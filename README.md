@@ -7,8 +7,9 @@
 
 ### Glimpse : 
 
-![ScreenShot](Screenshot(198).png)
-
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(198).png)
+----
+![ScreenShot](https://github.com/Vinodk-17/BizFiz/blob/main/frontend/assets/Screenshot%20(199.png)
 
 ### The problem BizFiz solves
 
